@@ -11,12 +11,14 @@
 ## Debs
 #### 提取、解压、打包 deb 等功能
 ## AppRetro
-#### 免验证降级app
+#### (巨魔) 免验证降级app
+## AppRetro_Sign
+#### (证书签名) 免验证降级app
 ## Batter
 #### (测试阶段) 修改电池使用数据
 ## CarApp_Trollstore
 #### (巨魔) 提取.car文件内容
 ## CarApp_Sign
-#### (证书) 提取.car文件内容
+#### (证书签名) 提取.car文件内容
 ## roothide
 #### (此安装包不是roothide越狱！！！) 清理app对root设备的检测，但会使部分巨魔安装的app丢失沙盒数据，建议考虑使用 (丢失数据概不负责)
